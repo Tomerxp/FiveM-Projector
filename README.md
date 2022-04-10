@@ -16,7 +16,7 @@ Todo
 - Link validation
 - Link Limitation (regex for checking trusted sites)
 
-I wrote this script multiple times, this is the implementation of it.
+I wrote this script multiple times, this is the best implementation of it.
 
-Firstly in Lua but the result was pretty bad, it had blurry edges and it got rendered poorly.
+Firstly in Lua but the result was pretty bad, it had blury edges and it got rendered poorly.
 reworked it in JS and looks great
